@@ -1,2 +1,4 @@
-# example-demo
-example project spring boot security, create user, login user, swagger and unittest
+# Example-Swagger
+example swagger
+run maven pj
+and test (http://localhost:9000/swagger-ui.html)
